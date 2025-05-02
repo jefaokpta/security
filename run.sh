@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-cd ~/Workspaces/Nodejs/security
+cd ~/Workspaces/NodeJs/security
 npm run pass
